@@ -1,0 +1,16 @@
+PODS:
+  - LocalLib (0.0.1)
+
+DEPENDENCIES:
+  - LocalLib (from `../LocalLib`)
+
+EXTERNAL SOURCES:
+  LocalLib:
+    :path: "../LocalLib"
+
+SPEC CHECKSUMS:
+  LocalLib: 9bb6cb8092d783d8e0ce49e16f93cab447e2ba17
+
+PODFILE CHECKSUM: 8413d1bb0233cdd11428eba8cda210e60c7776bb
+
+COCOAPODS: 1.5.0
